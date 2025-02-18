@@ -6,8 +6,6 @@
 
 📧- Contate-me no email: csgsilva1982@gmail.com
 
-😄- Pronomes: ela/dela
-
 
     <a href="https://github.com/carolineesouza">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolineesouza&show_icons=true&theme=dark&text_color=06ADBE)

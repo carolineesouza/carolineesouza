@@ -2,8 +2,6 @@
 
 💻- Cursado DS
 
-🔎- Estudando HTML e CSS
-
 📧- Contate-me no email: csgsilva1982@gmail.com
 
 
